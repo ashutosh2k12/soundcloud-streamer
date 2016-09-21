@@ -6,7 +6,6 @@ A script which stream music directly from soundcloud
 ```
 sudo chmod +x ./stream.sh
 ```
-
 2. Start the script
 ```
 ./stream.sh "linkin park in the end"
